@@ -1,0 +1,1 @@
+import{n as e}from"./App.7YMkzQB7.js";e.init(),document.body.classList.add(`loaded`);

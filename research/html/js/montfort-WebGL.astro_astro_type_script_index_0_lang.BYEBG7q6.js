@@ -1,0 +1,1 @@
+import{o as e,t}from"./App.7YMkzQB7.js";var n=document.querySelector(`#canvas-wrapper`),r=n.querySelector(`canvas`);await t.init(n,r),t.state.emit(e.ATTACH),t.state.emit(e.RESIZE,t.tools?.viewport.infos);
